@@ -1,2 +1,2 @@
 # Solved-Assignments-Linked_Lists
-Solved Questions using Linked Lists DataStructure
+Solved Assignments using Linked Lists DataStructure
